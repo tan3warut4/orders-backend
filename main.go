@@ -1,1 +1,1 @@
-//initial project
+// init project
